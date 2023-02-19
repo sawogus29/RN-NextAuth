@@ -12,7 +12,7 @@ yarn install
 
 `app.config.js`파일의 SERVER_URL을 수정해주세요.
 
-- Express가 192.168.35.29:3000에서 실행중이라면 `http://192.168.35.29:3000`
+- NextJS가 192.168.35.29:3000에서 실행중이라면 `http://192.168.35.29:3000`
 
 ```javascript
 const SERVER_URL = "YOUR Express Server URL"
